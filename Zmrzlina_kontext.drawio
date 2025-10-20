@@ -1,28 +1,28 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.7">
   <diagram name="Сторінка-1" id="iZRUU9PK894lXB4rwVNZ">
-    <mxGraphModel dx="1042" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1097" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bLrldgsTdVxo5FEm06gE-1" value="Prodej Tocene zmrzliny" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-1" value="Prodej Tocene zmrzliny" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="360" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-2" value="Zakaznik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="bLrldgsTdVxo5FEm06gE-2" value="Zakaznik" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-3" value="Prodejce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="bLrldgsTdVxo5FEm06gE-3" value="Prodejce" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-4" value="Provozni" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="bLrldgsTdVxo5FEm06gE-4" value="Provozni" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-5" value="Vyrobce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="240" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="bLrldgsTdVxo5FEm06gE-5" value="Vyrobce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="230" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-6" value="Banka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="bLrldgsTdVxo5FEm06gE-6" value="Banka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-8" value="&lt;div&gt;Zadat o zmrzlinu&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLrldgsTdVxo5FEm06gE-2" target="bLrldgsTdVxo5FEm06gE-1">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-8" value="&lt;div&gt;Zadat o zmrzlinu&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-2" target="bLrldgsTdVxo5FEm06gE-1" edge="1">
           <mxGeometry x="-0.0616" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="370" as="sourcePoint" />
             <mxPoint x="440" y="300" as="targetPoint" />
@@ -32,7 +32,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-9" value="Dostat zmrzlinu" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-2">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-9" value="Dostat zmrzlinu" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="250" as="sourcePoint" />
             <mxPoint x="440" y="300" as="targetPoint" />
@@ -41,16 +41,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-10" value="3" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLrldgsTdVxo5FEm06gE-4" target="bLrldgsTdVxo5FEm06gE-1">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-10" value="&lt;div&gt;Nastavit smeny&lt;/div&gt;&lt;div&gt;nastvit oteviraci doby&lt;/div&gt;&lt;div&gt;zadat vyplatu&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-4" target="bLrldgsTdVxo5FEm06gE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="290" as="sourcePoint" />
             <mxPoint x="520" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="500" y="260" />
+              <mxPoint x="540" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-11" value="4" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-4">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-11" value="&lt;div&gt;třba prodejce&lt;/div&gt;&lt;div&gt;vzsledky inventury&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="340" as="sourcePoint" />
             <mxPoint x="560" y="440" as="targetPoint" />
@@ -59,34 +59,41 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-12" value="6" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-3" edge="1">
+          <mxGeometry x="0.3073" y="-7" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="350" as="sourcePoint" />
             <mxPoint x="480" y="450" as="targetPoint" />
             <Array as="points">
               <mxPoint x="440" y="380" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-13" value="5" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLrldgsTdVxo5FEm06gE-3" target="bLrldgsTdVxo5FEm06gE-1">
+        <mxCell id="wtUhYO0bkuCC4kUER6YQ-3" value="&lt;div&gt;dostat vplatu&amp;nbsp;&lt;/div&gt;&lt;div&gt;dostat smeny&lt;/div&gt;&lt;div&gt;zjistit oteviraci doby&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bLrldgsTdVxo5FEm06gE-12">
+          <mxGeometry x="-0.047" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bLrldgsTdVxo5FEm06gE-13" value="&lt;div&gt;Vysledky inventury,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Spočitana třba&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-3" target="bLrldgsTdVxo5FEm06gE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="410" as="sourcePoint" />
             <mxPoint x="500" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="500" y="350" />
+              <mxPoint x="580" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-14" value="&lt;div&gt;10&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-14" value="Žadat o směs" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-5" edge="1">
+          <mxGeometry x="0.0013" y="-2" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="300" as="sourcePoint" />
             <mxPoint x="320" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="280" y="350" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLrldgsTdVxo5FEm06gE-5" target="bLrldgsTdVxo5FEm06gE-1">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-15" value="Dostat směsi" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-5" target="bLrldgsTdVxo5FEm06gE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="350" as="sourcePoint" />
             <mxPoint x="400" y="450" as="targetPoint" />
@@ -95,27 +102,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-19" value="9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bLrldgsTdVxo5FEm06gE-15">
-          <mxGeometry x="-0.1731" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-16" value="8" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-16" value="žadad o prevod" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-6" edge="1">
+          <mxGeometry x="-0.3232" y="22" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="220" as="sourcePoint" />
             <mxPoint x="330" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="250" />
+              <mxPoint x="300" y="190" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-17" value="7" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLrldgsTdVxo5FEm06gE-6" target="bLrldgsTdVxo5FEm06gE-1">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-17" value="7" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-6" target="bLrldgsTdVxo5FEm06gE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="340" as="sourcePoint" />
             <mxPoint x="280" y="340" as="targetPoint" />
             <Array as="points">
               <mxPoint x="300" y="320" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtUhYO0bkuCC4kUER6YQ-2" value="Dostat prevod" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bLrldgsTdVxo5FEm06gE-17">
+          <mxGeometry x="-0.0444" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
