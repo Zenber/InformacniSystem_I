@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.7">
   <diagram name="Сторінка-1" id="iZRUU9PK894lXB4rwVNZ">
-    <mxGraphModel dx="1097" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="632" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-10" value="&lt;div&gt;Nastavit smeny&lt;/div&gt;&lt;div&gt;nastvit oteviraci doby&lt;/div&gt;&lt;div&gt;zadat vyplatu&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-4" target="bLrldgsTdVxo5FEm06gE-1" edge="1">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-10" value="&lt;div&gt;Nastavit smeny&lt;/div&gt;&lt;div&gt;nastvit oteviraci doby&lt;/div&gt;&lt;div&gt;zadat vyplatu&lt;/div&gt;&lt;div&gt;Zadost o smes&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-4" target="bLrldgsTdVxo5FEm06gE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="290" as="sourcePoint" />
             <mxPoint x="520" y="390" as="targetPoint" />
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-11" value="&lt;div&gt;třba prodejce&lt;/div&gt;&lt;div&gt;vzsledky inventury&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-4" edge="1">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-11" value="&lt;div&gt;třba prodejce&lt;/div&gt;&lt;div&gt;vzsledky inventury&lt;/div&gt;&lt;div&gt;Stav smesi&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-1" target="bLrldgsTdVxo5FEm06gE-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="340" as="sourcePoint" />
             <mxPoint x="560" y="440" as="targetPoint" />
@@ -69,12 +69,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtUhYO0bkuCC4kUER6YQ-3" value="&lt;div&gt;dostat vplatu&amp;nbsp;&lt;/div&gt;&lt;div&gt;dostat smeny&lt;/div&gt;&lt;div&gt;zjistit oteviraci doby&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bLrldgsTdVxo5FEm06gE-12">
+        <mxCell id="wtUhYO0bkuCC4kUER6YQ-3" value="&lt;div&gt;dostat vplatu&amp;nbsp;&lt;/div&gt;&lt;div&gt;dostat smeny&lt;/div&gt;&lt;div&gt;zjistit oteviraci doby&lt;/div&gt;&lt;div&gt;Prevzeti smesi&lt;/div&gt;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bLrldgsTdVxo5FEm06gE-12">
           <mxGeometry x="-0.047" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrldgsTdVxo5FEm06gE-13" value="&lt;div&gt;Vysledky inventury,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Spočitana třba&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-3" target="bLrldgsTdVxo5FEm06gE-1" edge="1">
+        <mxCell id="bLrldgsTdVxo5FEm06gE-13" value="&lt;div&gt;Vysledky inventury,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Spočitana třba&lt;/div&gt;&lt;div&gt;Info o stavu smesi&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="bLrldgsTdVxo5FEm06gE-3" target="bLrldgsTdVxo5FEm06gE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="410" as="sourcePoint" />
             <mxPoint x="500" y="440" as="targetPoint" />
