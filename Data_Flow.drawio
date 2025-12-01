@@ -25,7 +25,7 @@
         <mxCell id="hFNS0nIlqdRJX12Zo0AL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.997;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hFNS0nIlqdRJX12Zo0AL-11" target="hFNS0nIlqdRJX12Zo0AL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hFNS0nIlqdRJX12Zo0AL-14" value="Směny na tyden" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hFNS0nIlqdRJX12Zo0AL-13" vertex="1" connectable="0">
+        <mxCell id="hFNS0nIlqdRJX12Zo0AL-14" value="Seznam smesi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hFNS0nIlqdRJX12Zo0AL-13" vertex="1" connectable="0">
           <mxGeometry x="0.0318" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -48,8 +48,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="240" />
-              <mxPoint x="353" y="240" />
-              <mxPoint x="353" y="300" />
+              <mxPoint x="130" y="240" />
+              <mxPoint x="130" y="300" />
+              <mxPoint x="174" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,12 +63,12 @@
           <mxGeometry x="130" y="140" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hFNS0nIlqdRJX12Zo0AL-17" value="&lt;div&gt;1.2&lt;/div&gt;&lt;div&gt;Prevzeti smesi&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="130" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="-80" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hFNS0nIlqdRJX12Zo0AL-22" value="Provozni" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="304" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hFNS0nIlqdRJX12Zo0AL-26" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hFNS0nIlqdRJX12Zo0AL-22" target="hFNS0nIlqdRJX12Zo0AL-16" edge="1">
+        <mxCell id="hFNS0nIlqdRJX12Zo0AL-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="hFNS0nIlqdRJX12Zo0AL-16" target="hFNS0nIlqdRJX12Zo0AL-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="150" as="sourcePoint" />
             <mxPoint x="310" y="100" as="targetPoint" />
@@ -103,13 +104,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hFNS0nIlqdRJX12Zo0AL-36" target="L6vHD_bOTiIf3wMTj1n6-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-35" value="Stav inventury a smesi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6vHD_bOTiIf3wMTj1n6-34">
+          <mxGeometry x="0.0076" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hFNS0nIlqdRJX12Zo0AL-36" value="Prodejce" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="324" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="114" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hFNS0nIlqdRJX12Zo0AL-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hFNS0nIlqdRJX12Zo0AL-36" target="hFNS0nIlqdRJX12Zo0AL-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="300" as="sourcePoint" />
-            <mxPoint x="170" y="250" as="targetPoint" />
+            <mxPoint x="-90" y="310" as="sourcePoint" />
+            <mxPoint x="-40" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hFNS0nIlqdRJX12Zo0AL-39" value="&lt;div&gt;Informace o&amp;nbsp;&lt;/div&gt;&lt;div&gt;Dorucovani&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hFNS0nIlqdRJX12Zo0AL-38" vertex="1" connectable="0">
@@ -118,12 +127,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hFNS0nIlqdRJX12Zo0AL-40" value="2&lt;br&gt;Priprava zmrzliny" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="-230" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hFNS0nIlqdRJX12Zo0AL-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hFNS0nIlqdRJX12Zo0AL-17" target="hFNS0nIlqdRJX12Zo0AL-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="310" as="sourcePoint" />
-            <mxPoint x="170" y="260" as="targetPoint" />
+            <mxPoint x="-90" y="320" as="sourcePoint" />
+            <mxPoint x="-40" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hFNS0nIlqdRJX12Zo0AL-42" value="Smes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hFNS0nIlqdRJX12Zo0AL-41" vertex="1" connectable="0">
@@ -134,7 +143,7 @@
         <mxCell id="L6vHD_bOTiIf3wMTj1n6-3" value="&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-20" y="710" width="390" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="L6vHD_bOTiIf3wMTj1n6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L6vHD_bOTiIf3wMTj1n6-4">
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6vHD_bOTiIf3wMTj1n6-4" target="L6vHD_bOTiIf3wMTj1n6-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-160" y="920" as="targetPoint" />
           </mxGeometry>
@@ -144,13 +153,29 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6vHD_bOTiIf3wMTj1n6-4" target="L6vHD_bOTiIf3wMTj1n6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-26" value="Zadost o prevodu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6vHD_bOTiIf3wMTj1n6-23">
+          <mxGeometry x="0.2583" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6vHD_bOTiIf3wMTj1n6-4" target="L6vHD_bOTiIf3wMTj1n6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-30" value="Pridani faktury" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6vHD_bOTiIf3wMTj1n6-29">
+          <mxGeometry x="0.5189" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L6vHD_bOTiIf3wMTj1n6-4" value="Prodejce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="872" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L6vHD_bOTiIf3wMTj1n6-9" value="&lt;div&gt;2&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="120" y="740" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L6vHD_bOTiIf3wMTj1n6-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="L6vHD_bOTiIf3wMTj1n6-4">
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="L6vHD_bOTiIf3wMTj1n6-31" target="L6vHD_bOTiIf3wMTj1n6-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-160" y="880" as="sourcePoint" />
             <mxPoint x="-40" y="850" as="targetPoint" />
@@ -173,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L6vHD_bOTiIf3wMTj1n6-15" value="Toceni zmrzliny" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" y="865" width="80" height="80" as="geometry" />
+          <mxGeometry x="264" y="830" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L6vHD_bOTiIf3wMTj1n6-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6vHD_bOTiIf3wMTj1n6-4" target="L6vHD_bOTiIf3wMTj1n6-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -183,6 +208,61 @@
         </mxCell>
         <mxCell id="L6vHD_bOTiIf3wMTj1n6-19" value="&lt;div&gt;Pocet a&amp;nbsp;&lt;/div&gt;&lt;div&gt;prichut&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6vHD_bOTiIf3wMTj1n6-17">
           <mxGeometry x="-0.2533" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6vHD_bOTiIf3wMTj1n6-22" target="L6vHD_bOTiIf3wMTj1n6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-27" value="Potvzeni o prevodu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6vHD_bOTiIf3wMTj1n6-25">
+          <mxGeometry x="0.125" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-22" value="Banka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-28" value="Faktura" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-31" value="Zakaznik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6vHD_bOTiIf3wMTj1n6-33" target="hFNS0nIlqdRJX12Zo0AL-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-37" value="Stav predchozi inventury" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6vHD_bOTiIf3wMTj1n6-36">
+          <mxGeometry x="-0.1476" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6vHD_bOTiIf3wMTj1n6-33" target="hFNS0nIlqdRJX12Zo0AL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-39" value="Stav inventury a smesi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6vHD_bOTiIf3wMTj1n6-38">
+          <mxGeometry x="-0.1235" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-33" value="&lt;div&gt;3&lt;/div&gt;&lt;div&gt;Spracovani&amp;nbsp;&lt;/div&gt;&lt;div&gt;Inventury&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="414" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L6vHD_bOTiIf3wMTj1n6-40" target="L6vHD_bOTiIf3wMTj1n6-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-44" value="Dostat inventuru" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6vHD_bOTiIf3wMTj1n6-43">
+          <mxGeometry x="-0.0229" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-40" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.075;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L6vHD_bOTiIf3wMTj1n6-33" target="L6vHD_bOTiIf3wMTj1n6-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L6vHD_bOTiIf3wMTj1n6-42" value="Ulozit inventuru" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L6vHD_bOTiIf3wMTj1n6-41">
+          <mxGeometry x="0.1038" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
